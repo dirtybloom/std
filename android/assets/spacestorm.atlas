@@ -1,0 +1,40 @@
+
+spacestorm.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+blue_yellow_enemy
+  rotate: false
+  xy: 1, 7
+  size: 44, 48
+  orig: 44, 48
+  offset: 0, 0
+  index: -1
+kamikaze_enemy
+  rotate: false
+  xy: 47, 11
+  size: 36, 44
+  orig: 36, 44
+  offset: 0, 0
+  index: -1
+player_red
+  rotate: false
+  xy: 85, 11
+  size: 36, 44
+  orig: 36, 44
+  offset: 0, 0
+  index: -1
+purple_orange_enemy
+  rotate: false
+  xy: 123, 15
+  size: 36, 40
+  orig: 36, 40
+  offset: 0, 0
+  index: -1
+particle
+  rotate: false
+  xy: 1, 1
+  size: 4, 4
+  orig: 4, 4
+  offset: 0, 0
+  index: -1
